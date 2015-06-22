@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrabalhoFinalGiovanna</string>
+    <string name="titulo">Nova ordem de serviço</string>
+    <string name="titulo_detalhe">Detalhes da ordem de serviço</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="cliente">Cliente</string>
+    <string name="telefone">Telefone</string>
+    <string name="pago">Status</string>
+    <string name="cadastrar">Cadastrat</string>
+    <string name="listar">Listar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_listar_os">ListarOS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_editar">Editar</string>
+    <string name="lbl_excluir">Excluir</string>
+    <string name="lbl_consultar">Consultar</string>
+    <string name="lbl_sim">Sim</string>
+    <string name="lbl_nao">Não</string>
+    <string name="title_activity_lista_detlhes_os">ListaDetlhesOs</string>
+
+</resources>

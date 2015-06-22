@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/acao_editar"
+        android:title="@string/lbl_editar"/>
+    <item
+        android:id="@+id/acao_excluir"
+        android:title="@string/lbl_excluir"/>
+    <item
+        android:id="@+id/acao_consultar"
+        android:title="@string/lbl_consultar"/>
+
+</menu>
